@@ -2,7 +2,5 @@
 
 <h2>Hey there</h2>
 
-These are .py codes to some of the puzzles I have tried to translte into codes.<br> 
-Some were mundane , but some were cool and informative puzzles I liked solving.
-
+Some of questions that intrigued me. I will keep them updated once in a while, you know solving them can take some time <br><br>
 Cheers!!
